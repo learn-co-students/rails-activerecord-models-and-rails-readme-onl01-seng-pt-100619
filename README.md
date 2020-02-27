@@ -165,7 +165,7 @@ end
 
 Now all of the tests are passing and we can create a new post correctly. Even
 though we know this is working because our tests are passing, let's still test
-this in the console. Open up the Rails console by running `rails console`.
+this in the console. Open up the Rails console by running `lerails console`.
 Running the console will load the entire Rails environment and give you command
 line access to the app and the database. The console is a powerful tool that you
 can leverage in order to test out scripts, methods, and database queries.
